@@ -1,0 +1,41 @@
+.backImg{
+    background-image: url('../static/backImg.png');
+    background-size: 100%;
+    color : white;
+    background-repeat: no-repeat;
+}
+
+.fontColor{
+    color : rgb(52, 176, 255);
+    text-shadow: 1px 1px rgb(43, 51, 60);
+}
+
+.locationFont{
+    color : gray;
+    font-size: smaller;
+}
+
+.titleFont{
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+
+.mainImgSize{
+    width: 100%;
+    height: 100%;
+}
+
+.overflow{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-marker {
+    background: url('../static/marker_red.png') no-repeat center / contain;
+    width: 22px;
+    height: 35px;
+    border: none;
+    }
+    
