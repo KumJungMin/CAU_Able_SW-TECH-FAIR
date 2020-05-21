@@ -53,4 +53,4 @@
 
 
 ### 4) 시연 영상
-<img src="./최종/시연 최종.png" height="350"> https://www.youtube.com/watch?v=6Q_bDHCN20o
+<img src="./최종/qa.png" height="250"> https://www.youtube.com/watch?v=6Q_bDHCN20o
