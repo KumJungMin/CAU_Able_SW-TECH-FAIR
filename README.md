@@ -2,15 +2,9 @@
 
 
 ## 0. 대회
-### 1) 기간
 - 2019년 11월 15일 ~ 2019년 11월 16일
-
-
-### 2) 대회 포스터
-<img src="./최종/poster.jpg" width="300">
-
-### 3) 수상
 - 우수상(전체 팀 중 3등 수상)
+<img src="./최종/poster.jpg" width="300">
 
 
 
@@ -54,4 +48,5 @@
 
 ### 4) 시연 영상
 https://www.youtube.com/watch?v=6Q_bDHCN20o
+
 <img src="./최종/qt.png" height="250"> 
