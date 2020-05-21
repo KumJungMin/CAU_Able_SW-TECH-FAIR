@@ -49,7 +49,8 @@
 - CTO (LeeJiWon.)
 
 ### 3) 화면 구성
-![main](./최종/main.png)
+<img src="./최종/main.png" height="350">
 
 
 ### 4) 시연 영상
+<img src="./최종/시연 최종.png" height="350"> https://www.youtube.com/watch?v=6Q_bDHCN20o
