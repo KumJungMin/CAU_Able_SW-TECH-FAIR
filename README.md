@@ -7,7 +7,7 @@
 
 
 ### 2) 대회 포스터
-<img src="./최종/poster.jpg" width="400">
+<img src="./최종/poster.jpg" width="300">
 
 ### 3) 수상
 - 우수상(전체 팀 중 3등 수상)
@@ -53,4 +53,5 @@
 
 
 ### 4) 시연 영상
-<img src="./최종/qt.png" height="250"> https://www.youtube.com/watch?v=6Q_bDHCN20o
+https://www.youtube.com/watch?v=6Q_bDHCN20o
+<img src="./최종/qt.png" height="250"> 
