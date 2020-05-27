@@ -50,6 +50,7 @@
 <img src="https://postfiles.pstatic.net/MjAyMDA1MjdfMTA0/MDAxNTkwNTg1MDkzMTY3.HEDmsyW-KEKU51SlwbgCj1NCDe2UryUjE_aznup5Npsg.KtyB7oH0lHmZoZZYknTTrqaHRjwiKYwyfbuAFiqZRMUg.PNG.rmawjdals/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-05-27_%EC%98%A4%ED%9B%84_10.09.11.png?type=w580" />
 </a>
 <br/>
+
 #### (2) 최종 화면 구성
 
 <img src="./최종/main.png" height="350">
